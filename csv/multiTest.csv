@@ -1,0 +1,11 @@
+ID,Firstname,Firstname_uncommon,Lastname,Lastname_uncommon,Expected
+1,José,Accented character (é),D'Angelo,Apostrophe ('),pass
+2,Zoë,Diaeresis (ë),O'Leary,Apostrophe ('),pass
+3,Renée,Accented character (é),García,Accented character (í),pass
+4,O’Connor,Apostrophe ('),Nuñez,Tilde (ñ),pass
+5,Björn,Umlaut (ö),Brontë,Diaeresis (ë),pass
+6,Jürgen,Umlaut (ü),Håland,Norwegian letter (å),pass
+7,Anaïs,Diaeresis (ï),Grześkowiak,Polish character (ś),pass
+8,Siobhán,Accented character (á),Schröder,Umlaut (ö),pass
+9,François,Cedilla (ç),Müller,Umlaut (ü),pass
+10,Łukasz,Polish character (Ł),Smørdal,Norwegian letter (ø),pass
