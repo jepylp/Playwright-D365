@@ -1,9 +1,9 @@
 # Playwright-D365
-Starting Position Playwright tests for D365
+Playwright tests for D365 before customization
 
-Tests for 010, 012, and 014 are similar and are used a launch point for customization
-These also include auto incrementing the vendor name so a duplicate is not generated
+Vendor testing between companies is currently similar and is used a launch point for customization
+Auto incrementing the vendor name so a duplicate is not generated
 
-Test-multi demostrates how to import a CSV file to use for testing
+Test-multi demostrates how to import a CSV file to use for testing input of names
 
-We have a Auth setup file that handles connecting to D365 for the tests
+Auth setup file not included and it handles connecting to D365 for the tests
